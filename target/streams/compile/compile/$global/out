@@ -1,0 +1,31 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/arhelmus/volkovsky/src/main/scala/me/archdev/Main.scala)
+[debug] Removed products: Set()
+[debug] Modified external sources: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/arhelmus/volkovsky/src/main/scala/me/archdev/Main.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/arhelmus/volkovsky/src/main/scala/me/archdev/Main.scala)
+[info] Compiling 1 Scala source to /home/arhelmus/volkovsky/target/scala-2.10/classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.10.2
+[debug] Getting compiler-interface from component compiler for Scala 2.10.2
+[debug] Running cached compiler 6451df63, interfacing (CompilerInterface) with Scala compiler version 2.10.2
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/arhelmus/.sbt/boot/scala-2.10.2/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/home/arhelmus/volkovsky/target/scala-2.10/classes
+[debug] Scala compilation took 1.912446939 s
+[debug] Invalidated by transitive public inheritance: Set()
+[debug] Invalidated by direct dependency: Set()
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()

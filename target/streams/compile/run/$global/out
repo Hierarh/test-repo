@@ -1,0 +1,11 @@
+[info] Running me.archdev.Main 
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[debug]   Classpath:
+[debug] 	/home/arhelmus/volkovsky/target/scala-2.10/classes
+[debug] 	/home/arhelmus/.sbt/boot/scala-2.10.2/lib/scala-library.jar
+[debug] 	Thread run-main exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
